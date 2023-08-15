@@ -1,0 +1,523 @@
+{
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9765605829884,
+          44.30558420053831
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Kennebec",
+        "PREDIR": null,
+        "RDNAME": "Main St",
+        "SUFFIX": "St",
+        "ADDRESS": "18 Main St",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04364",
+        "BUILDING": null,
+        "LATITUDE": 44.305584,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.976561,
+        "ADDRESS_NU": 18,
+        "MUNICIPALI": "Winthrop",
+        "POSTAL_COM": "Winthrop",
+        "STREETNAME": "Main"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18370089944406,
+          44.47026812834961
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Androscoggin",
+        "PREDIR": null,
+        "RDNAME": "Park St",
+        "SUFFIX": "St",
+        "ADDRESS": "55 Park St",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04254",
+        "BUILDING": null,
+        "LATITUDE": 44.470267,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -70.183698,
+        "ADDRESS_NU": 55,
+        "MUNICIPALI": "Livermore Falls",
+        "POSTAL_COM": "Livermore Falls",
+        "STREETNAME": "Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72487326003508,
+          43.961697015945866
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Sagadahoc",
+        "PREDIR": null,
+        "RDNAME": "Route 1",
+        "SUFFIX": null,
+        "ADDRESS": "901 Route 1",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04579",
+        "BUILDING": null,
+        "LATITUDE": 43.961695,
+        "ZIPPLUS4": "4810",
+        "LONGITUDE": -69.724871,
+        "ADDRESS_NU": 901,
+        "MUNICIPALI": "Woolwich",
+        "POSTAL_COM": "Woolwich",
+        "STREETNAME": "Route 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.66919695216818,
+          44.88046102998543
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Penobscot",
+        "PREDIR": null,
+        "RDNAME": "Longfellow Hts",
+        "SUFFIX": "Hts",
+        "ADDRESS": "6 Longfellow Hts",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04473",
+        "BUILDING": null,
+        "LATITUDE": 44.880459,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -68.669199,
+        "ADDRESS_NU": 6,
+        "MUNICIPALI": "Orono",
+        "POSTAL_COM": "Orono",
+        "STREETNAME": "Longfellow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28509748733327,
+          43.66320326731371
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Cumberland",
+        "PREDIR": null,
+        "RDNAME": "Brighton Ave",
+        "SUFFIX": "Ave",
+        "ADDRESS": "186 Brighton Ave",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04102",
+        "BUILDING": null,
+        "LATITUDE": 43.663205,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -70.285098,
+        "ADDRESS_NU": 186,
+        "MUNICIPALI": "Portland",
+        "POSTAL_COM": "Portland",
+        "STREETNAME": "Brighton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71973542941343,
+          44.54739382614971
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Kennebec",
+        "PREDIR": null,
+        "RDNAME": "Railroad Ave",
+        "SUFFIX": "Ave",
+        "ADDRESS": "7 Railroad Ave",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04963",
+        "BUILDING": null,
+        "LATITUDE": 44.547396,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.719736,
+        "ADDRESS_NU": 7,
+        "MUNICIPALI": "Oakland",
+        "POSTAL_COM": "Oakland",
+        "STREETNAME": "Railroad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71973542941343,
+          44.54739382614971
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Kennebec",
+        "PREDIR": null,
+        "RDNAME": "Railroad Ave",
+        "SUFFIX": "Ave",
+        "ADDRESS": "7 Railroad Ave",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04963",
+        "BUILDING": null,
+        "LATITUDE": 44.547396,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.719736,
+        "ADDRESS_NU": 7,
+        "MUNICIPALI": "Oakland",
+        "POSTAL_COM": "Oakland",
+        "STREETNAME": "Railroad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8915125731189,
+          44.009852970363845
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Sagadahoc",
+        "PREDIR": null,
+        "RDNAME": "River Rd",
+        "SUFFIX": "Rd",
+        "ADDRESS": "84 River Rd",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04008",
+        "BUILDING": null,
+        "LATITUDE": 44.009855,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.891513,
+        "ADDRESS_NU": 84,
+        "MUNICIPALI": "Bowdoinham",
+        "POSTAL_COM": "Matched",
+        "STREETNAME": "River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8876111464163,
+          44.01006791742792
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Sagadahoc",
+        "PREDIR": null,
+        "RDNAME": "River Rd",
+        "SUFFIX": "Rd",
+        "ADDRESS": "125 River Rd",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04008",
+        "BUILDING": null,
+        "LATITUDE": 44.010068,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.88761,
+        "ADDRESS_NU": 125,
+        "MUNICIPALI": "Bowdoinham",
+        "POSTAL_COM": "Matched",
+        "STREETNAME": "River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.79676344038916,
+          44.09206977353564
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Sagadahoc",
+        "PREDIR": null,
+        "RDNAME": "Lincoln St",
+        "SUFFIX": "St",
+        "ADDRESS": "18 Lincoln St",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04357",
+        "BUILDING": null,
+        "LATITUDE": 44.09207,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.796763,
+        "ADDRESS_NU": 18,
+        "MUNICIPALI": "Richmond",
+        "POSTAL_COM": "Richmond",
+        "STREETNAME": "Lincoln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.59012729192064,
+          43.32497570042599
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "York",
+        "PREDIR": null,
+        "RDNAME": "Whistle Stop Cir",
+        "SUFFIX": "Cir",
+        "ADDRESS": "34 Whistle Stop Cir",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04090",
+        "BUILDING": null,
+        "LATITUDE": 43.324976,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -70.590127,
+        "ADDRESS_NU": 34,
+        "MUNICIPALI": "Wells",
+        "POSTAL_COM": "Wells",
+        "STREETNAME": "Whistle Stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.78487085960845,
+          44.77908020954468
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Penobscot",
+        "PREDIR": null,
+        "RDNAME": "Main Rd N",
+        "SUFFIX": "Rd",
+        "ADDRESS": "812 Main Rd N",
+        "COUNTRY": "US",
+        "POSTDIR": "N",
+        "ZIPCODE": "04444",
+        "BUILDING": null,
+        "LATITUDE": 44.77908,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -68.784871,
+        "ADDRESS_NU": 812,
+        "MUNICIPALI": "Hampden",
+        "POSTAL_COM": "Hampden",
+        "STREETNAME": "Main"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.78440226651259,
+          44.779331389630805
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Penobscot",
+        "PREDIR": null,
+        "RDNAME": "Main Rd N",
+        "SUFFIX": "Rd",
+        "ADDRESS": "816 Main Rd N",
+        "COUNTRY": "US",
+        "POSTDIR": "N",
+        "ZIPCODE": "04444",
+        "BUILDING": null,
+        "LATITUDE": 44.779331,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -68.784402,
+        "ADDRESS_NU": 816,
+        "MUNICIPALI": "Hampden",
+        "POSTAL_COM": "Hampden",
+        "STREETNAME": "Main"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29296249939729,
+          45.02345765849679
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Penobscot",
+        "PREDIR": null,
+        "RDNAME": "Zions Hill Rd",
+        "SUFFIX": "Rd",
+        "ADDRESS": "9 Zions Hill Rd",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04930",
+        "BUILDING": null,
+        "LATITUDE": 45.023458,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.292962,
+        "ADDRESS_NU": 9,
+        "MUNICIPALI": "Dexter",
+        "POSTAL_COM": "Dexter",
+        "STREETNAME": "Zions Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.29335998131268,
+          45.02299754177808
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Penobscot",
+        "PREDIR": null,
+        "RDNAME": "Zions Hill Rd",
+        "SUFFIX": "Rd",
+        "ADDRESS": "20 Zions Hill Rd",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04930",
+        "BUILDING": null,
+        "LATITUDE": 45.022998,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.29336,
+        "ADDRESS_NU": 20,
+        "MUNICIPALI": "Dexter",
+        "POSTAL_COM": "Dexter",
+        "STREETNAME": "Zions Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95863678848453,
+          44.3428282544259
+        ]
+      },
+      "properties": {
+        "ROOM": null,
+        "UNIT": null,
+        "FLOOR": null,
+        "STATE": "ME",
+        "COUNTY": "Kennebec",
+        "PREDIR": null,
+        "RDNAME": "Maranacook Station Ln",
+        "SUFFIX": "Ln",
+        "ADDRESS": "52 Maranacook Station Ln",
+        "COUNTRY": "US",
+        "POSTDIR": null,
+        "ZIPCODE": "04364",
+        "BUILDING": null,
+        "LATITUDE": 44.342827,
+        "ZIPPLUS4": null,
+        "LONGITUDE": -69.958634,
+        "ADDRESS_NU": 52,
+        "MUNICIPALI": "Winthrop",
+        "POSTAL_COM": "Winthrop",
+        "STREETNAME": "Maranacook Station"
+      }
+    }
+  ]
+}
